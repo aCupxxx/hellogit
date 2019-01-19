@@ -1,0 +1,2 @@
+hello git,
+  I am so happy to have a git repository.
